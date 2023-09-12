@@ -7,3 +7,4 @@ const result_subtract = calc.subtract(2, 3);
 console.log(`result_add = ${result_add}`);
 console.log(`result_subtract = ${result_subtract}`);
 
+console.log('done.')
